@@ -1,4 +1,4 @@
-package com.mobile;
+package com.enesyunlu;
 
 import android.app.Application;
 

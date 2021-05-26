@@ -1,4 +1,4 @@
-package com.mobile;
+package com.enesyunlu;
 
 import com.facebook.react.ReactActivity;
 
